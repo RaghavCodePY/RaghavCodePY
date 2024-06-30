@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaghavCodePY
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Pythonn
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me: email at raghavcoder.py@gmail.com
 - 😄 Pronouns: He/His
